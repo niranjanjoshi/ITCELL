@@ -1,0 +1,4 @@
+; $Id $
+	name = person
+	description = about a person
+	core = 7.x
