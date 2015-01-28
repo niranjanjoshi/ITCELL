@@ -1,0 +1,9 @@
+Here’s a quick outline of the how the GitHub Flow works using just a browser:
+
+Create a branch right from the repository.
+Create, edit, and delete files, rename them, or move them around.
+Send a pull request from your branch with your changes to kick off a discussion.
+Continue making changes on your branch as needed, updating the pull request automatically.
+Once the branch is ready to go, the pull request can be merged using the big green button.
+Branches can then be tidied up using the delete buttons in the pull request, or on the branches page.
+Repeat.
